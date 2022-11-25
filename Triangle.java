@@ -1,5 +1,3 @@
-package interviews;
-
 public class Triangle {
 
     double area;
