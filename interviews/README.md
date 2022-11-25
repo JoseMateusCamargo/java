@@ -11,7 +11,7 @@ Questões utilizadas em entrevistas técnicas.
 - **Microsoft Interview Question**
     - Adicione repetidamente todos os seus dígitos.
 - **Outros**
-    - [Contem valor dublicado em um array?](./ContemDuplicado.java)
+  - [Existe valor dublicado em um array?](./ContemDuplicado.java)
 
 ----
 
@@ -24,5 +24,3 @@ dígito. [Code](./SumDigits.java)
 
 - Por exemplo: Dado num = 38, o processo é como: 3 + 8 = 11, 1 + 1 = 2. Como 2 tem apenas um dígito, retorne-o.
 - Acompanhamento: Você poderia fazer isso sem nenhum loop/recursão em tempo de execução O(1)?
-
-### Direitos de uso (Use rights)

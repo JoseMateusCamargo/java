@@ -2,7 +2,7 @@
 
 # Java
 
-## How to Use (manual)
+## Manual (How to use)
 
 #### _Let's Code!_
 
