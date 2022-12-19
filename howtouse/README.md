@@ -8,6 +8,7 @@
 
 - StackTrace.
 - [Stream.](./stream/README.md)
+- Parse - usando o método.
 
 ---
 
@@ -36,4 +37,26 @@ java.io.FileNotFoundException: fileNotExist.txt (O sistema não conseguiu locali
         at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
         at howtouse.StackTrace.main(StackTrace.java:9)
  */
+```
+
+**Parse - usando o método**
+
+```Java
+public class StringInt {
+    public static void main(String[] args) {
+        String stringValue = "100";
+        int intValue;
+        intValue = Integer.parseInt(stringValue);
+        System.out.println(intValue);
+    }
+}
+
+public class IntString {
+    public static void main(String[] args) {
+        int intValue = 110;
+        String stringValue;
+        stringValue = Integer.toString(intValue);
+        System.out.println(stringValue);
+    }
+}
 ```
