@@ -12,7 +12,7 @@ Questões utilizadas em entrevistas técnicas.
     - Adicione repetidamente todos os seus dígitos.
 - **Outros**
     - [Existe valor dublicado em um array?](./ContemDuplicado.java)
-    - [DNA Mutant, checagem em 3 direções (_diagonal, vertical and horizontal_)](./MutantDNA.java)
+    - [**DNA Mutant**, checagem em 3 direções (_diagonal, vertical and horizontal_)](./MutantDNA.java)
 
 ---- 
 
